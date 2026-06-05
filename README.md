@@ -6,7 +6,7 @@ Moderni hakerski terminal dashboard napisan u jeziku **C#** koji uživo povlači
 
 ## 📸 Izgled aplikacije
 
-![Terminal Dashboard]<img width="962" height="477" alt="Capture" src="https://github.com/user-attachments/assets/619c56a0-9fcf-4fbc-a55e-e630a6a72900" />
+<img width="962" height="477" alt="Capture" src="https://github.com/user-attachments/assets/619c56a0-9fcf-4fbc-a55e-e630a6a72900" />
 
 
 ---
@@ -35,4 +35,4 @@ Moderni hakerski terminal dashboard napisan u jeziku **C#** koji uživo povlači
 ### 1. Kloniranje
 Klonirajte ovaj projekat na svoj računar:
 ```bash
-git clone [https://github.com/TVOJ_USER/CryptoAndWeatherTerminalDashboard.git](https://github.com/TVOJ_USER/CryptoAndWeatherTerminalDashboard.git)
+git clone [https://github.com/mattacodes0/Crypto-&-Weather-Terminal-Dashboard.git](https://github.com/mattacodes0/Crypto-&-Weather-Terminal-Dashboard.git)
