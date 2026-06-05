@@ -6,7 +6,7 @@ Moderni hakerski terminal dashboard napisan u jeziku **C#** koji uživo povlači
 
 ## 📸 Izgled aplikacije
 
-![Terminal Dashboard](Capture.PNG)
+![Terminal Dashboard]![Uploading Capture.PNG…]()
 
 ---
 
